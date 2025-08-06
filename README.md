@@ -1,4 +1,5 @@
-# Descriptive-Analysis
+# EDA - Analysis on Gym Product 
+
 In this Project,lets deep dive into descriptive analysis using python libraries such as Numpy and Pandas. For Data visualization I am using matplotlib.pyplot and seasborn libraries. 
 
 ### Index 
